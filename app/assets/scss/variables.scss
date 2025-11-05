@@ -1,0 +1,43 @@
+$base-font: 'Open Sans', sans-serif;
+
+$transition: .25s ease;
+
+// Colors
+$body-bg-color: #E7E7E7;
+
+$text-grey-light: #494949;
+$text-grey-dark: #27272E;
+
+$purple-50: #f5f3ff;
+$purple-100: #ede9fe;
+$purple-200: #ddd6fe;
+$purple-300: #c4b5fd;
+$purple-400: #a78bfa;
+$purple-500: #8b5cf6;
+$purple-600: #7c3aed;
+$purple-700: #6d28d9;
+$purple-800: #5b21b6;
+$purple-900: #4c1d95;
+$purple-950: #2e1065;
+
+$grey-000: #FFFFFF;
+$grey-100: #F1F1F4;
+$grey-200: #F2F2F2;
+$grey-300: #E7E7E7;
+$grey-350: #C9CED6;
+$grey-400: #B5B5BD;
+$grey-500: #7A828A;
+$grey-700: #494949;
+$grey-800: #27272E;
+$grey-900: #17171B;
+
+$primary-color: $purple-600;
+$error-color: #CF4655;
+
+// Sizes
+$container-width: 1200px;
+
+$header-height: 118px;
+
+$controls-border-radius: 6px;
+$controls-height: 32px;
