@@ -1,0 +1,26 @@
+{
+  "name": "todo-list_nuxt",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxtjs/google-fonts": "^3.2.0",
+    "@pinia/nuxt": "^0.11.2",
+    "nuxt": "^4.2.0",
+    "nuxt-icons": "^4.0.0",
+    "pinia": "^3.0.3",
+    "typescript": "^5.9.3",
+    "vue": "^3.5.22",
+    "vue-router": "^4.6.3"
+  },
+  "devDependencies": {
+    "sass": "^1.93.3",
+    "sass-loader": "^16.0.6"
+  }
+}
